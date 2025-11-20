@@ -300,14 +300,10 @@ For questions or issues:
 - Create an issue in the GitHub repository
 - Contact team members via ASU email
 
-## License
-
-MIT License - See LICENSE file for details
 
 ## Acknowledgments
 
 - Arizona State University, CSE 540 Course
-- Anthropic (Claude AI for development assistance)
 - Ethereum Foundation
 - IPFS Protocol Labs
 
