@@ -7,7 +7,7 @@
 A blockchain-based system for tracking aviation parts across their entire lifecycle, ensuring transparency, authenticity, and compliance in the aviation supply chain.
 
 ## Team Members
-- **Pranay Reddy Palle** - Planning, Integration, Coordination
+- **Pranay Reddy Palle** - Planning, Integration, Architecture Design
 - **Satvik Reddy** - Blockchain Logic Development
 - **Geethan Sannidhi** - Web Interface & Smart Contract Integration
 - **Preethi Kotturu** - IPFS Storage & Off-chain Data
